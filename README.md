@@ -1,1 +1,1 @@
-# PI-SENAC-desenvolvimento-de-sistemas-dinamicos-baseados-na-web
+# Desenvolvimento de sistemas dinâmicos baseados na web
