@@ -13,7 +13,7 @@ Os protótipos funcionais foram desenvolvidas no FIGMA e é possível visualizar
     - [Tipos de login](#tipos-de-login)
     - [Login do aluno](#login-do-aluno)
     - [Login do professor](#login-do-professor)
-    - [Login pessoa jurídica](#login-pessoa-jurídica)
+    - [Login pessoa jurídica-fornecedor](#login-pessoa-jurídica-fornecedor)
   - [Perfil](#perfil)
     - [Perfil do aluno-professor](#perfil-do-aluno-professor)
     - [Perfil pessoa jurídica-fornecedor](#perfil-pessoa-jurídica-fornecedor)
@@ -42,7 +42,7 @@ Os protótipos funcionais foram desenvolvidas no FIGMA e é possível visualizar
 ![](/protótipos/login_pessoa_fisica-aluno.png)
 ### Login do professor
 ![](/protótipos/login_pessoa_fisica-professor.png)
-### Login pessoa jurídica
+### Login pessoa jurídica-fornecedor
 ![](/protótipos/login_pessoa_juridica.png)
 
 ## Perfil
