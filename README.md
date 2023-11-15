@@ -1,6 +1,7 @@
 # Desenvolvimento de sistemas dinâmicos baseados na web
 
-Este repositório foi criado para demonstração de diagramas e protótipos funcionais de um sistema de gestão escolar.
+Este repositório foi estabelecido com o propósito de apresentar diagramas e protótipos funcionais de um sistema de gestão escolar. Esses elementos visam servir como projeto integrador para a disciplina de **"Desenvolvimento de Sistemas Dinâmicos Baseados na Web"** no curso de **"Tecnologia em Sistemas para Internet - EAD"** oferecido pelo **SENAC**.
+
 Os protótipos funcionais foram desenvolvidas no FIGMA e é possível visualizar por este link: [Protótipos - sistema de gestão escolar](https://www.figma.com/file/h31Y9HM60E5rSfJNNqPs1C/SENAC---PI---PROJETO-INTEGRADOR%3A-DESENVOLVIMENTO-DE-SISTEMAS-DIN%C3%82MICOS-BASEADOS-NA-WEB?type=design&node-id=6%3A44&mode=design&t=X56jocdIRy2UKtIq-1)
 
 # Sumário
